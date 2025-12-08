@@ -90,7 +90,7 @@ streamlit run app.py
 
 Kod içinde sabit tanımlanmış:
 
-SABIT_API_KEY = "BURAYA_ANAHTARIN_GELECEK"
+SABIT_API_KEY = Google AI Studio api key alabilirsiniz ücretsiz
 
 
 Kendi Google AI API anahtarınızı ekleyiniz.
@@ -109,7 +109,7 @@ Public repoya yüklemeden önce API key’i .env içine taşıman önerilir.
 
 Admin şifresi kod içinden kaldırılmalı veya environment variable yapılmalı.
 
-📸 Ekran Görselleri (Opsiyonel)
+📸 Ekran Görselleri 
 
 <img width="2557" height="1386" alt="image" src="https://github.com/user-attachments/assets/6f29b51b-ad07-48ce-a95f-d8f26a0e8978" />
 
