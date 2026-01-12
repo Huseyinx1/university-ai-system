@@ -18,7 +18,7 @@ ADMIN_SIFRESI = "BEŞİKTAŞ"
 
 # --- 1. SAYFA AYARLARI ---
 st.set_page_config(
-    page_title="Kampüs Asistanı AI",
+    page_title="üniversite Kampüs Asistanı AI", 
     page_icon="🎓",
     layout="wide",
     initial_sidebar_state="expanded"
